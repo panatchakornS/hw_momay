@@ -8,7 +8,7 @@ async function main() {
     if( Number(answer) < 18){
       console.log("Kid");
     }else{
-      console.log("Adult");
+      console.log("Adults");
     }
     rl.close();
     
